@@ -32,7 +32,7 @@ Average total screen time remains largely consistent across all age groups, with
 
 How screen time is distributed across categories is also consistent across age groups
 
-The younger age group (13-18yrs) and two oldest age groups (46-60yrs, 60+yrs) tend to use a tablet as their primary device while laptops and mobile devices were utilized more within the middle age ranges.
+The younger age group (13-18yrs) and two oldest age groups (46-60yrs, 60+yrs) tend to use a tablet as their primary device while laptops and mobile devices were utilized more within the middle age ranges
 
 Category-level breakdowns provide more insight than total averages alone when comparing age demographics
 
@@ -48,4 +48,4 @@ The data used in this project was obtained from Kaggle
 
 The entirety of this data was collected in 2024, spanning all 12 months
 
-This project is intended for learning and portfolio purposes and demonstrates foundational Power BI dashboard design and analysis techniques.
+This project is intended for learning and portfolio purposes and demonstrates foundational Power BI dashboard design and analysis techniques
