@@ -44,4 +44,6 @@ Enhance visuals with tooltips and drill-through pages
 
 ## Notes
 
+The entirety of this data was collected in 2024, spanning all 12 months
+
 This project is intended for learning and portfolio purposes and demonstrates foundational Power BI dashboard design and analysis techniques.
