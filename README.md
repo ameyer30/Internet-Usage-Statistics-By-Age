@@ -26,6 +26,22 @@ Basic DAX measures (SUM, AVERAGE)
 
 Simple data modeling and transformations
 
+## Dashboards
+
+![Dashboard](Images/Internet_Usage_Dashboard.png)
+
+![13-18](Images/13_18.png)
+
+![19-25](Images/19_25.png)
+
+![26-35](Images/26_35.png)
+
+![36-45](Images/36_45.png)
+
+![46-60](Images/46_60.png)
+
+![60](Images/60.png)
+
 ## Key Insights
 
 Average total screen time remains largely consistent across all age groups, with only minor variation
