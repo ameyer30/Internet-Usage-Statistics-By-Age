@@ -46,7 +46,7 @@ Simple data modeling and transformations
 
 Average total screen time remains largely consistent across all age groups, with only minor variation
 
-How screen time is distributed across categories is also consistent across age groups
+Screen time distribution across categories is consistent across age groups
 
 The younger age group (13-18yrs) and two oldest age groups (46-60yrs, 60+yrs) tend to use a tablet as their primary device while laptops and mobile devices were utilized more within the middle age ranges
 
